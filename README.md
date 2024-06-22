@@ -1,2 +1,2 @@
-# Netflix-Clone
-This is  a responsive Netflix Clone website. I have created it using HTML &amp; CSS
+This responsive Netflix Clone website showcases a modern, sleek design, replicating the look and feel of the popular streaming service. Developed using HTML and CSS, it features a user-friendly interface that adjusts seamlessly across various devices, ensuring an optimal viewing experience. The project also includes a video component, enhancing the interactive and multimedia capabilities of the site. This clone serves as an excellent demonstration of front-end development skills, emphasizing responsiveness and design aesthetics.
+#Netflix Clone
